@@ -1,5 +1,9 @@
 Validation experiment MITMProbe
 ================================
+Please first download the [dataset](https://zenodo.org) in the folder where you cloned this repository, or 
+just use `download.sh`.
+
+
 For used videos and conditions see `videos.list`.
 
 We performed for each video and each conditions 32 repetitions of
@@ -24,10 +28,6 @@ You can find a first starting point for analysis in our ipython3 notebook
 
 * [comparison_analysis.ipynb](comparison_analysis.ipynb)
 
-
-# Published and required dataset:
-
-* [dataset](https://zenodo.org)
 
 # Reference
 If you use this dataset please cite
