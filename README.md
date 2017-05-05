@@ -1,6 +1,6 @@
-Validation experiment MITMProbe
+Validation Experiment MITMProbe
 ================================
-Please first download the [dataset](https://zenodo.org) in the folder where you cloned this repository, or 
+Please first download the [dataset](https://zenodo.org) in the folder where you cloned this repository, or
 just use `download.sh`.
 
 
