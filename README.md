@@ -1,7 +1,7 @@
 Validation Experiment MITMProbe
 ================================
-Please first download the [dataset](https://zenodo.org) in the folder where you cloned this repository, or
-just use `download.sh`.
+Please first download and extract the [dataset](https://doi.org/10.5281/zenodo.571752) in the folder where you cloned this repository,
+or just use `download_and_extract.sh`.
 
 
 For used videos and conditions see `videos.list`.
@@ -22,6 +22,7 @@ Each subfolder consists of several measurements:
 * where `*active_probe` are all collected information of our active probing client (stalling, quality changes, ...),
     `*analyzed` summarized our man-in-the-middle-probe report (just available if measurement uses proxy) and
     `*meta` are just some meta data for the specific youtube video
+* we do not stored in our data-set encrypted pcap files to reducing file size
 
 
 You can find a first starting point for analysis in our ipython3 notebook
