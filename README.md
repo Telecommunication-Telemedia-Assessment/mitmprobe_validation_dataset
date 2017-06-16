@@ -38,8 +38,7 @@ If you use this dataset please cite
   author={Steve G{\"o}ring and Alexander Raake and Bernhard Feiten},
   year={2017},
   booktitle={Quality of Multimedia Experience (QoMEX), 2017 Ninth International Conference on},
-  organization={IEEE},
-  note={to appear}
+  organization={IEEE}
 }
 ```
 
