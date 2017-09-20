@@ -33,13 +33,14 @@ You can find a first starting point for analysis in our ipython3 notebook
 # Reference
 If you use this dataset please cite
 ```
-@article{goering2017,
-  title={A Framework for QoE Analysis of Encrypted Video Streams},
-  author={Steve G{\"o}ring and Alexander Raake and Bernhard Feiten},
-  year={2017},
-  booktitle={Quality of Multimedia Experience (QoMEX), 2017 Ninth International Conference on},
-  organization={IEEE},
-  note={to appear}
+@INPROCEEDINGS{7965640,
+    author={Steve Göring and Alexander Raake and Bernhard Feiten},
+    booktitle={2017 Ninth International Conference on Quality of Multimedia Experience (QoMEX)},
+    title={A framework for QoE analysis of encrypted video streams},
+    year={2017},
+    pages={1-3},
+    doi={10.1109/QoMEX.2017.7965640},
+    month={May}
 }
 ```
 
